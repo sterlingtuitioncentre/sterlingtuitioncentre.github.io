@@ -1,5 +1,5 @@
-> Template Name: Sterling Tuition Centre Official Website
+> Company: Sterling Tuition Centre Official Website
  
-> Author: Dawn Softwares Inc.
+> Development Team: Dawn Softwares Inc.
 
 > License: MIT
