@@ -1,4 +1,4 @@
-> Company: Sterling Tuition Centre Official Website
+> Official Website: Sterling Crown Tutors
  
 > Development Team: Dawn Softwares Inc.
 
